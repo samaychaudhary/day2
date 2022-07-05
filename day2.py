@@ -8,5 +8,8 @@
 
 #print ("sama\bay")
 
-print ("this is beautiful /\\/\\/\\ mountain")
+#print ("this is beautiful /\\/\\/\\ mountain")
+
+print 
+
 
